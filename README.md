@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **hungblqn/hungblqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +25,8 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UC4D5GJ43_lrA-asGZSsafCA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+</div>
+<div align="center">
+### Hi there 👋
 </div>
 <hr>
