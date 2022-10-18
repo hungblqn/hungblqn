@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div align="center">
-### Hi there 👋
+  <p>Hi there 👋</p>
 </div>
 <hr>
