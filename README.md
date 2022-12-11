@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <hr>
 
 ### 👨‍💻 About Me :
-I am a Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 - :telescope: I’m working as a Software Engineer and create 2D,3D game with Unity <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="20">
 
 - :seedling: Keep learning...
